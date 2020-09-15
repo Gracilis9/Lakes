@@ -1,0 +1,32 @@
+body{
+  font-family: charliefont, serif;
+}
+
+ol{
+  background-color: yellow;
+  font-family: consolas, sans-serif;
+}
+
+p{
+  margin-left: 100px;
+  margin-right: 200px;
+}
+
+.intro{
+  color: orange;
+}
+
+#count-list{
+  text-shadow:2px 2px #ff0000;
+}
+
+
+/* Pin to the right */
+#middle-content{
+  padding: 50px;
+  float: right;
+}
+
+.big-text{
+  font-size: 24pt;
+}
